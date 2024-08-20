@@ -1,6 +1,6 @@
 ### Hi there, welcome to my repository 
 
-- 🔭 Trabalho como assistente técnico Jr. na empresa Becomex Consultoria.
+- 🔭 Trabalho como assistente técnico na empresa Becomex Consultoria.
 - 💬 Procuro me empenhar ao máximo nos projetos que faço e tento fazer meu dia produtivo.
 - 😄 Pronouns: ELE/DELE
 ##
