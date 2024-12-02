@@ -2,6 +2,8 @@
 
 - 🔭 Trabalho como assistente técnico na empresa Becomex Consultoria.
 - 💬 Procuro me empenhar ao máximo nos projetos que faço e tento fazer meu dia produtivo.
+- 🌐 Interece em desenvolvimento Web.
+- ⚙️Frot-End.
 - 😄 Pronouns: ELE/DELE
 ##
 
