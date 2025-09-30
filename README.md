@@ -1,6 +1,6 @@
 ### Hi there, welcome to my repository 
 
-- 🔭 Trabalho como Desenvalvedor Jr na empresa Becomex Consultoria.
+- 🔭 Trabalho como Desenvolvedor Jr na empresa Becomex Consultoria.
 - 💬 Procuro me empenhar ao máximo nos projetos que faço e tento fazer meu dia produtivo.
 - 🌐 Interece em desenvolvimento Web.
 - ⚙️Frot-End.
