@@ -1,6 +1,6 @@
 ### Hi there, welcome to my repository 
 
-- 🔭 Trabalho como Desenvolvedor Jr na empresa Becomex Consultoria.
+- 🔭 A procura de oportunidade.
 - 💬 Procuro me empenhar ao máximo nos projetos que faço e tento fazer meu dia produtivo.
 - 🌐 Interece em desenvolvimento Web.
 - ⚙️Frot-End.
@@ -15,7 +15,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
